@@ -9,7 +9,7 @@ const Footer = () => (
           
         </p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">
-          Blog
+          
         </p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">
         
