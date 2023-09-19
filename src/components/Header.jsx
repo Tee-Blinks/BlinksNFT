@@ -16,10 +16,10 @@ const [connectedAccount] = useGlobalState("connectedAccount")
         hidden list-none flex-row justify-between 
         items-center flex-initial"
       >
-        <li className="mx-4 cursor-pointer">Language</li>
-        <li className="mx-4 cursor-pointer">Blog</li>
-        <li className="mx-4 cursor-pointer">Help Center</li>
-        <li className="mx-4 cursor-pointer">Jobs</li>
+        <li className="mx-4 cursor-pointer"></li>
+        <li className="mx-4 cursor-pointer"></li>
+        <li className="mx-4 cursor-pointer"></li>
+        <li className="mx-4 cursor-pointer"></li>
       </ul>
 
       {connectedAccount ? (
